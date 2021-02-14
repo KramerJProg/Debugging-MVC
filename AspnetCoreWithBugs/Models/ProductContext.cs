@@ -11,7 +11,6 @@ namespace AspnetCoreWithBugs.Models
     {
         public ProductContext(DbContextOptions<ProductContext> options) : base(options)
         {
-
         }
         public DbSet<AspnetCoreWithBugs.Models.Product> Product { get; set; }
     }
