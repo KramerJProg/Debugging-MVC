@@ -9,5 +9,12 @@ namespace AspnetCoreWithBugs.Models
 {
     public static class ProductDb
     {
+        // CREATE
+
+        // SELECT
+
+        // UPDATE
+
+        // DELETE
     }
 }
